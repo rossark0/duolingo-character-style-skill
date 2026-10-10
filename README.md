@@ -1,6 +1,6 @@
-<img width="640" alt="Two characters drawn in Duolingo's style, cheering and giving a thumbs up" src="example.png" />
-
 # Duolingo-style characters
+
+<img width="100%" alt="Two characters drawn in Duolingo's style, cheering and giving a thumbs up" src="example.png" />
 
 A Claude skill that draws people in Duolingo's flat illustration style, using rules and proportions measured from the vector drawings in Duolingo's own brand guide.
 
