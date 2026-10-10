@@ -1,5 +1,7 @@
 # Duolingo-style characters (a Claude skill)
 
+![Two characters drawn in Duolingo's style, cheering and giving a thumbs up](example.png)
+
 This skill teaches Claude to draw people in Duolingo's flat illustration style, using rules and proportions measured from the vector drawings in Duolingo's own brand guide. It covers:
 
 - shape language;
@@ -15,12 +17,6 @@ This skill teaches Claude to draw people in Duolingo's flat illustration style, 
 - **Claude apps (web or desktop):** in Settings, under Capabilities, find Skills and upload `duolingo-character-style.zip`.
 
 Claude loads the skill on its own when you ask for a Duolingo-style character. You can also name it: "use the duolingo-character-style skill".
-
-## Example
-
-Two original characters drawn with this skill's rules, cheering and giving a thumbs up:
-
-![Two characters drawn in Duolingo's style, cheering and giving a thumbs up](example.png)
 
 ## Try it
 
