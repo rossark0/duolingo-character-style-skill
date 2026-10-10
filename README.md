@@ -16,6 +16,12 @@ This skill teaches Claude to draw people in Duolingo's flat illustration style, 
 
 Claude loads the skill on its own when you ask for a Duolingo-style character. You can also name it: "use the duolingo-character-style skill".
 
+## Example
+
+Two original characters drawn with this skill's rules, cheering and giving a thumbs up:
+
+![Two characters drawn in Duolingo's style, cheering and giving a thumbs up](example.png)
+
 ## Try it
 
 - "Draw an SVG of a boy in a green hoodie giving a thumbs up, Duolingo style."
